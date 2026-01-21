@@ -1,0 +1,15 @@
+# Prerequisites
+.venv/
+venv/
+node_modules/
+.DS_Store
+
+# Application Secrets (CRITICAL)
+.env
+backend/.env
+
+# Build outputs
+frontend/.next/
+frontend/out/
+frontend/build/
+
